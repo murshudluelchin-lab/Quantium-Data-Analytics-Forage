@@ -101,5 +101,8 @@ reports/
 ├── task-1-customer-analytics/
 ├── task-2-trial-store-analysis/
 └── task-3-commercial/
+``` 
+# About the Program
 
+This project was completed as part of the Quantium Data Analytics Virtual Experience Program provided by Forage.
 README.md
