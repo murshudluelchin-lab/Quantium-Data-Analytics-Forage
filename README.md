@@ -1,17 +1,14 @@
-````md
 # Quantium Data Analytics Job Simulation — Forage
-
-![Dashboard Preview](./images/quantium_data_analytics_task1_elchin_murshudlu_page-0001.jpg)
 
 ## Project Overview
 
-This repository contains my completed work for the Quantium Data Analytics Virtual Experience Program hosted by Forage.
+This repository contains my completed work for the **Quantium Data Analytics Virtual Experience Program** hosted by Forage.
 
-The project focuses on:
-- Customer segmentation analysis
-- Retail transaction analytics
+The project focuses on real-world retail analytics including:
+- Customer segmentation
+- Transaction data analysis
 - Trial store experimentation
-- Commercial recommendations using data-driven insights
+- Business recommendation reporting
 
 ---
 
@@ -20,7 +17,7 @@ The project focuses on:
 - Power BI
 - Power Query
 - DAX
-- PowerPoint
+- Microsoft PowerPoint
 
 ---
 
@@ -28,146 +25,81 @@ The project focuses on:
 
 - Completed: May 2026
 
-📄 **Certificate:**  
+📄 Certificate:  
 [View Certificate](./assets/certificate/quantium_data_analytics_certificate_elchin_murshudlu.pdf)
 
 ---
 
-# Project Tasks
+# Project Preview
+
+## Task 1 — Customer Analytics
+
+![Task 1 Preview](./images/quantium_data_analytics_task1_elchin_murshudlu_page-0001.jpg)
+![Task 1 Preview](./images/quantium_data_analytics_task1_elchin_murshudlu_page-0002.jpg)
+![Task 1 Preview](./images/quantium_data_analytics_task1_elchin_murshudlu_page-0003.jpg)
+
+**Summary:**
+- Identified key customer segments based on sales behavior
+- Found that Budget Older Families and Mainstream Young Singles/Couples drive highest revenue
+- Kettle brand and 175g pack size dominate sales performance
+
+📄 Report:  
+[View Task 1 Report](./reports/task-1-customer-analytics/quantium_data_analytics_task1_elchin_murshudlu.pdf)
 
 ---
 
-## Task 1 — Customer Analytics & Data Preparation
+## Task 2 — Trial Store Analysis
 
-### Objectives
-- Clean and transform transaction datasets
-- Analyze purchasing behavior
-- Identify high-value customer segments
+![Task 2 Preview](./images/quantium_data_analytics_task2_elchin_murshudlu_page-0001.jpg)
 
-### Key Insights
-- Budget Older Families generated the highest revenue ($156.9K)
-- Mainstream Young Singles/Couples generated $147.6K
-- Kettle was the top-performing brand ($390K)
-- 175g was the most purchased pack size
+**Summary:**
+- Matched trial stores with control stores based on pre-trial similarity
+- Evaluated sales performance uplift during trial period
+- Trial Store 88 showed the strongest positive impact
 
-### Dashboard Preview
-
-| Customer Segmentation | Sales Analysis |
-|---|---|
-| ![](./images/quantium_data_analytics_task1_elchin_murshudlu_page-0001.jpg) | ![](./images/quantium_data_analytics_task1_elchin_murshudlu_page-0002.jpg) |
-
-| Brand & Pack Size Analysis |
-|---|
-| ![](./images/quantium_data_analytics_task1_elchin_murshudlu_page-0003.jpg) |
-
-📄 [View Task 1 Report](./reports/task-1-customer-analytics/quantium_data_analytics_task1_elchin_murshudlu.pdf)
-
----
-
-## Task 2 — Trial Store Experimentation
-
-### Objectives
-- Select statistically comparable control stores
-- Measure trial uplift performance
-- Compare pre-trial and post-trial periods
-
-### Trial vs Control Stores
-
-| Trial Store | Control Store |
-|---|---|
-| 77 | 53 |
-| 86 | 73 |
-| 88 | 65 |
-
-### Key Findings
-- Trial Store 88 delivered the strongest uplift performance
-- Significant improvement observed during Feb–Apr 2019
-
-### Dashboard Preview
-
-![](./images/quantium_data_analytics_task2_elchin_murshudlu_page-0001.jpg)
-
-📄 [View Task 2 Report](./reports/task-2-trial-store-analysis/quantium_data_analytics_task2_elchin_murshudlu.pdf)
+📄 Report:  
+[View Task 2 Report](./reports/task-2-trial-store-analysis/quantium_data_analytics_task2_elchin_murshudlu.pdf)
 
 ---
 
 ## Task 3 — Commercial Insights Report
 
-### Objectives
-- Present business recommendations
-- Translate analytics into commercial actions
-- Apply Pyramid Principles framework
+![Task 3 Preview](./images/quantium_data_analytics_task3_elchin_murshudlu_page-0001.jpg)
+![Task 3 Preview](./images/quantium_data_analytics_task3_elchin_murshudlu_page-0002.jpg)
+![Task 3 Preview](./images/quantium_data_analytics_task3_elchin_murshudlu_page-0003.jpg)
+![Task 3 Preview](./images/quantium_data_analytics_task3_elchin_murshudlu_page-0004.jpg)
+![Task 3 Preview](./images/quantium_data_analytics_task3_elchin_murshudlu_page-0005.jpg)
+![Task 3 Preview](./images/quantium_data_analytics_task3_elchin_murshudlu_page-0006.jpg)
+![Task 3 Preview](./images/quantium_data_analytics_task3_elchin_murshudlu_page-0007.jpg)
 
-### Recommendations
-1. Target Budget Older Families and Young Singles/Couples
-2. Prioritize Kettle and Smiths product lines
-3. Expand the new layout strategy from Trial Store 88
+**Summary:**
+- Developed strategic insights using Pyramid Principles
+- Recommended targeting high-value customer segments
+- Suggested scaling successful trial store strategies
 
-### Report Preview
+📄 Report:  
+[View Task 3 Report](./reports/task-3-commercial/quantium_data_analytics_task3_elchin_murshudlu.pdf)
 
-| Report Page 1 | Report Page 2 |
-|---|---|
-| ![](./images/quantium_data_analytics_task3_elchin_murshudlu_page-0001.jpg) | ![](./images/quantium_data_analytics_task3_elchin_murshudlu_page-0002.jpg) |
-
-| Report Page 3 | Report Page 4 |
-|---|---|
-| ![](./images/quantium_data_analytics_task3_elchin_murshudlu_page-0003.jpg) | ![](./images/quantium_data_analytics_task3_elchin_murshudlu_page-0004.jpg) |
-
-| Report Page 5 | Report Page 6 |
-|---|---|
-| ![](./images/quantium_data_analytics_task3_elchin_murshudlu_page-0005.jpg) | ![](./images/quantium_data_analytics_task3_elchin_murshudlu_page-0006.jpg) |
-
-| Report Page 7 |
-|---|
-| ![](./images/quantium_data_analytics_task3_elchin_murshudlu_page-0007.jpg) |
-
-📄 [View Task 3 Report](./reports/task-3-commercial/quantium_data_analytics_task3_elchin_murshudlu.pdf)
-
-📊 [View Presentation](./reports/task-3-commercial/quantium-commercial-report-presentation.pptx)
+📊 Presentation:  
+[View Presentation](./reports/task-3-commercial/quantium-commercial-report-presentation.pptx)
 
 ---
 
 # Repository Structure
 
 ```bash
-Quantium-Data-Analytics-Forage/
-│
-├── README.md
-│
-├── assets/
-│   └── certificate/
-│       └── quantium_data_analytics_certificate_elchin_murshudlu.pdf
-│
-├── images/
-│   ├── quantium_data_analytics_task1_elchin_murshudlu_page-0001.jpg
-│   ├── quantium_data_analytics_task1_elchin_murshudlu_page-0002.jpg
-│   ├── quantium_data_analytics_task1_elchin_murshudlu_page-0003.jpg
-│   ├── quantium_data_analytics_task2_elchin_murshudlu_page-0001.jpg
-│   ├── quantium_data_analytics_task3_elchin_murshudlu_page-0001.jpg
-│   ├── quantium_data_analytics_task3_elchin_murshudlu_page-0002.jpg
-│   ├── quantium_data_analytics_task3_elchin_murshudlu_page-0003.jpg
-│   ├── quantium_data_analytics_task3_elchin_murshudlu_page-0004.jpg
-│   ├── quantium_data_analytics_task3_elchin_murshudlu_page-0005.jpg
-│   ├── quantium_data_analytics_task3_elchin_murshudlu_page-0006.jpg
-│   └── quantium_data_analytics_task3_elchin_murshudlu_page-0007.jpg
-│
-├── reports/
-│   ├── task-1-customer-analytics/
-│   │   └── quantium_data_analytics_task1_elchin_murshudlu.pdf
-│   │
-│   ├── task-2-trial-store-analysis/
-│   │   └── quantium_data_analytics_task2_elchin_murshudlu.pdf
-│   │
-│   └── task-3-commercial/
-│       ├── quantium-commercial-report-presentation.pptx
-│       └── quantium_data_analytics_task3_elchin_murshudlu.pdf
-````
+assets/
+└── certificate/
+    └── quantium_data_analytics_certificate_elchin_murshudlu.pdf
 
----
+images/
+    ├── task-1 images
+    ├── task-2 images
+    └── task-3 images
 
-# About the Program
+reports/
+├── task-1-customer-analytics/
+├── task-2-trial-store-analysis/
+└── task-3-commercial/
 
-This project was completed as part of the Quantium Data Analytics Virtual Experience Program provided by Forage.
-
-```
-```
+README.md
